@@ -52,6 +52,7 @@ This deliverable presents the culmination of our efforts in developing the Araad
    - Sprint Backlog
      ![Sprint Backlog for Sprint 1](path/to/your/image.png)
    - Scrum Board Snapshots
+     
      ![Snapshot 1 for Sprint 1](sp1.PNG)
      ![Snapshot 2 for Sprint 1](sp2.PNG)
      ![Snapshot 3 for Sprint 1](sp3.PNG)
@@ -61,8 +62,10 @@ This deliverable presents the culmination of our efforts in developing the Araad
 
 4. **Sprint 2**
    - Sprint Backlog
+     
      ![Sprint Backlog for Sprint 2](path/to/your/image.png)
    - Scrum Board Snapshots
+     
      ![Snapshot 1 for Sprint 2](sp4.PNG)
      ![Snapshot 2 for Sprint 2](sp5.PNG)
      ![Snapshot 3 for Sprint 2](sp6.PNG)
