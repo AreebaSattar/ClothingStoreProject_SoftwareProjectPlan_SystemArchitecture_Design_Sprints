@@ -50,6 +50,7 @@ This deliverable presents the culmination of our efforts in developing the Araad
 
 3. **Sprint 1**
    - Sprint Backlog
+
      ![Sprint Backlog for Sprint 1](spr1.PNG)
    - Scrum Board Snapshots
      
