@@ -32,7 +32,7 @@ This deliverable presents the culmination of our efforts in developing the Araad
      - Activity 2 -> View Stock
        ![Sequence Diagram for Activity 2](viewst.PNG)
      - Activity 3 -> Search item
-       ![Sequence Diagram for Activity 3](search.PMG)
+       ![Sequence Diagram for Activity 3](search.PNG)
    - Class Diagram
      ![Class Diagram](classdiag.PNG)
 
