@@ -18,6 +18,7 @@ This deliverable presents the culmination of our efforts in developing the Araad
       ![subSystems](subsys.PNG)
      - Architectural Style
        - Layered Architectural Style
+        ![layered](layeredArchitecture.PNG)
      - Deployment Diagram
        ![Deployment Diagram](deploydiag.PNG)
      - Component Diagram
