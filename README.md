@@ -40,21 +40,21 @@ This deliverable presents the culmination of our efforts in developing the Araad
    - Sprint Backlog
      ![Sprint Backlog for Sprint 1](path/to/your/image.png)
    - Scrum Board Snapshots
-     ![Snapshot 1 for Sprint 1](path/to/your/image.png)
-     ![Snapshot 2 for Sprint 1](path/to/your/image.png)
-     ![Snapshot 3 for Sprint 1](path/to/your/image.png)
+     ![Snapshot 1 for Sprint 1](sp1.PNG)
+     ![Snapshot 2 for Sprint 1](sp2.PNG)
+     ![Snapshot 3 for Sprint 1](sp3.PNG)
    - Burn-down Chart
-     ![Burn-down Chart for Sprint 1](path/to/your/image.png)
+     ![Burn-down Chart for Sprint 1](bdc1.PNG)
 
 4. **Sprint 2**
    - Sprint Backlog
      ![Sprint Backlog for Sprint 2](path/to/your/image.png)
    - Scrum Board Snapshots
-     ![Snapshot 1 for Sprint 2](path/to/your/image.png)
-     ![Snapshot 2 for Sprint 2](path/to/your/image.png)
-     ![Snapshot 3 for Sprint 2](path/to/your/image.png)
+     ![Snapshot 1 for Sprint 2](sp4.PNG)
+     ![Snapshot 2 for Sprint 2](sp5.PNG)
+     ![Snapshot 3 for Sprint 2](sp6.PNG)
    - Burn-down Chart
-     ![Burn-down Chart for Sprint 2](path/to/your/image.png)
+     ![Burn-down Chart for Sprint 2](bdc2.PNG)
 
 ## 🚀 Get Involved
 
