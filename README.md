@@ -10,31 +10,42 @@ This deliverable presents the culmination of our efforts in developing the Araad
 
 1. **Software Project Plan**
    - Work Breakdown Structure
+     
      ![Work Breakdown Structure](wbs.PNG)
    - Project Gantt Chart
+     
      ![Project Gantt Chart](pgc.PNG)
    - System Architecture
      - Subsystems
+       
       ![subSystems](subsys.PNG)
      - Architectural Style
        - Layered Architectural Style
+         
         ![layered](layeredArchitecture.PNG)
      - Deployment Diagram
+       
        ![Deployment Diagram](deploydiag.PNG)
      - Component Diagram
+       
        ![Component Diagram](compdiag.PNG)
 
 2. **Design**
    - Use Case Diagram
+     
      ![Use Case Diagram](uc.PNG)
    - Sequence Diagrams
      - Activity 1 -> Register User
+       
        ![Sequence Diagram for Activity 1](reguser.PNG)
      - Activity 2 -> View Stock
+       
        ![Sequence Diagram for Activity 2](viewst.PNG)
      - Activity 3 -> Search item
+       
        ![Sequence Diagram for Activity 3](search.PNG)
    - Class Diagram
+     
      ![Class Diagram](classdiag.PNG)
 
 3. **Sprint 1**
@@ -45,6 +56,7 @@ This deliverable presents the culmination of our efforts in developing the Araad
      ![Snapshot 2 for Sprint 1](sp2.PNG)
      ![Snapshot 3 for Sprint 1](sp3.PNG)
    - Burn-down Chart
+     
      ![Burn-down Chart for Sprint 1](bdc1.PNG)
 
 4. **Sprint 2**
@@ -55,6 +67,7 @@ This deliverable presents the culmination of our efforts in developing the Araad
      ![Snapshot 2 for Sprint 2](sp5.PNG)
      ![Snapshot 3 for Sprint 2](sp6.PNG)
    - Burn-down Chart
+     
      ![Burn-down Chart for Sprint 2](bdc2.PNG)
 
 ## 🚀 Get Involved
